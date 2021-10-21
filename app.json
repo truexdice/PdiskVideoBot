@@ -6,9 +6,8 @@
         "pdisk",
         "shortner"
     ],
-    "website": "https://github.com/PredatorHackerzZ/PdiskVideoBot/",
-    "repository": "https://github.com/PredatorHackerzZ/PdiskVideoBot/",
-    "logo": "https://telegra.ph/file/51a84cdd8254ee0406683.jpg", 
+    "website": "http://kingsameer014.tk",
+    "logo": "https://telegra.ph/file/7fe26cab6dd5057cf01d5.jpg", 
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token (must add)",
