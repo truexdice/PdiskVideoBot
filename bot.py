@@ -146,9 +146,13 @@ async def remove_username(new_List):
 
 async def addFooter(str):
     footer = """
-━━━━━━━━━━━━━━━
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+         Join Our Main Channel -    https://t.me/joinchat/Q3WJwWRqoIQ1YTk1
 
-━━━━━━━━━━━━━━━
+     Request Your Favorite - 
+       @thecinemaxgroup
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
 ⭐️JOIN CHANNEL ➡️ t.me/""" + CHANNEL
     return str + footer
 
